@@ -1,0 +1,1 @@
+Console.WriteLine("Blue cheese is the worst type of cheese");
